@@ -1,1 +1,3 @@
-kuch naya
+hello this is cloudblitz
+i am trainer here
+we are learning devops
