@@ -1,3 +1,5 @@
 hello this is cloudblitz
 i am trainer here
 we are learning devops
+hello dost i joined the team
+thankyou
